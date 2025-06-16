@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EscalonamentoEDF_RM_DM/1.0.0": {
+        "runtime": {
+          "EscalonamentoEDF_RM_DM.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EscalonamentoEDF_RM_DM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

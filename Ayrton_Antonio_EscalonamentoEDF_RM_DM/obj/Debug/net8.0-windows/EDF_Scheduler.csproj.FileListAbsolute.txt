@@ -1,0 +1,16 @@
+C:\Users\ayrton.antonio\source\reposgamicos\EDF_Scheduler\EDF_Scheduler\bin\Debug\net8.0-windows\EDF_Scheduler.exe
+C:\Users\ayrton.antonio\source\reposgamicos\EDF_Scheduler\EDF_Scheduler\bin\Debug\net8.0-windows\EDF_Scheduler.deps.json
+C:\Users\ayrton.antonio\source\reposgamicos\EDF_Scheduler\EDF_Scheduler\bin\Debug\net8.0-windows\EDF_Scheduler.runtimeconfig.json
+C:\Users\ayrton.antonio\source\reposgamicos\EDF_Scheduler\EDF_Scheduler\bin\Debug\net8.0-windows\EDF_Scheduler.dll
+C:\Users\ayrton.antonio\source\reposgamicos\EDF_Scheduler\EDF_Scheduler\bin\Debug\net8.0-windows\EDF_Scheduler.pdb
+C:\Users\ayrton.antonio\source\reposgamicos\EDF_Scheduler\EDF_Scheduler\obj\Debug\net8.0-windows\EDF_Scheduler.Form1.resources
+C:\Users\ayrton.antonio\source\reposgamicos\EDF_Scheduler\EDF_Scheduler\obj\Debug\net8.0-windows\EDF_Scheduler.csproj.GenerateResource.cache
+C:\Users\ayrton.antonio\source\reposgamicos\EDF_Scheduler\EDF_Scheduler\obj\Debug\net8.0-windows\EDF_Scheduler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayrton.antonio\source\reposgamicos\EDF_Scheduler\EDF_Scheduler\obj\Debug\net8.0-windows\EDF_Scheduler.AssemblyInfoInputs.cache
+C:\Users\ayrton.antonio\source\reposgamicos\EDF_Scheduler\EDF_Scheduler\obj\Debug\net8.0-windows\EDF_Scheduler.AssemblyInfo.cs
+C:\Users\ayrton.antonio\source\reposgamicos\EDF_Scheduler\EDF_Scheduler\obj\Debug\net8.0-windows\EDF_Scheduler.csproj.CoreCompileInputs.cache
+C:\Users\ayrton.antonio\source\reposgamicos\EDF_Scheduler\EDF_Scheduler\obj\Debug\net8.0-windows\EDF_Scheduler.dll
+C:\Users\ayrton.antonio\source\reposgamicos\EDF_Scheduler\EDF_Scheduler\obj\Debug\net8.0-windows\refint\EDF_Scheduler.dll
+C:\Users\ayrton.antonio\source\reposgamicos\EDF_Scheduler\EDF_Scheduler\obj\Debug\net8.0-windows\EDF_Scheduler.pdb
+C:\Users\ayrton.antonio\source\reposgamicos\EDF_Scheduler\EDF_Scheduler\obj\Debug\net8.0-windows\EDF_Scheduler.genruntimeconfig.cache
+C:\Users\ayrton.antonio\source\reposgamicos\EDF_Scheduler\EDF_Scheduler\obj\Debug\net8.0-windows\ref\EDF_Scheduler.dll
