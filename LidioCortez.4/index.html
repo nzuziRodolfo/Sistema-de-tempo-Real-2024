@@ -1,0 +1,27 @@
+
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <title>Escalonamento por DM</title>
+  <link rel="stylesheet" href="css/estilo.css">
+</head>
+<body>
+  <h1>Escalonador - Deadline Monotonic</h1>
+
+  <label for="tarefas">Tarefas:</label><br>
+  <textarea id="tarefas" rows="8" cols="60">[
+    { "name": "A", "execTime": 5, "period": 100 },
+    { "name": "B", "execTime": 10, "period": 150 },
+    { "name": "C", "execTime": 20, "period": 350 }
+  ]</textarea><br>
+  <button onclick="start()">Executar</button>
+
+  <canvas id="canvas" width="3000" height="150"></canvas>
+
+  <script src="js/interacao.js" >
+  </script>
+</body>
+</html>
+
+
